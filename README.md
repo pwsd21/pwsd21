@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pawan Sachdeva</h1>
+<h1 align="center">Hi 👋, I'm Pawan Kumar Sachdeva</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working as **Frontend Developer**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **sachdevapawan992@gmail.com**
 

@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 💬 Ask me about **MERN Stack**
+
 - 📫 How to reach me **sachdevapawan992@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b1LkMIjEQ8qgmpjbPMX2bqVS9WzoczIP/view?usp=sharing](https://drive.google.com/file/d/1b1LkMIjEQ8qgmpjbPMX2bqVS9WzoczIP/view?usp=sharing)
@@ -11,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pawan-sachdeva-2a231017b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-sachdeva-2a231017b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pawansachdeva191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pawansachdeva191" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pawansachdeva1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pawansachdeva1998/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pawansachdeva1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawansachdeva1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,10 +7,6 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **sachdevapawan992@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b1LkMIjEQ8qgmpjbPMX2bqVS9WzoczIP/view?usp=sharing](https://drive.google.com/file/d/1b1LkMIjEQ8qgmpjbPMX2bqVS9WzoczIP/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pawan-sachdeva-2a231017b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-sachdeva-2a231017b" height="30" width="40" /></a>
